@@ -1,0 +1,6 @@
+{
+  "name": "Mais Conforto Abdominal",
+  "description": "Desafio 7 Dias de Mais Conforto Abdominal - Um mini app para observar sintomas e testar hábitos simples com segurança.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
